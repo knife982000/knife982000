@@ -19,7 +19,6 @@ You can find my research contributions on my [Google Scholar profile](https://sc
 ## 📫 Contact Information
 
 - **📧 Email:** jmro@cs.aau.dk
-- **📍 Location:** Selma Lagerlöfs Vej 300, 9220 Aalborg Øst, Denmark
 
 ## 🌐 Connect with Me
 
